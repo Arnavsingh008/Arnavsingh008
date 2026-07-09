@@ -9,6 +9,16 @@
 
 📫 Feel free to connect with me to discuss web development, full-stack engineering, or new technology ideas.
 
+## 🚀 Featured Projects
+
+🌾 NaapTol – Farmer's Smart Help
+A MERN Stack platform helping farmers access crop prices, weather updates, and government schemes.<br>
+
+🍔 BhookExpress
+A full-stack food ordering application with authentication and online payment integration.<br>
+
+🤖 Local Business AI Assistant
+An AI-powered chatbot that helps users discover and interact with local businesses.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arnavsingh008) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arnavsinghh08@gmail.com) 
