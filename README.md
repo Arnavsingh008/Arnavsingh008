@@ -1,5 +1,13 @@
 # 💫 About Me:
-🔭 I’m currently working on: Full-stack web development projects and real-world applications  <br>👯 I’m looking to collaborate on: MERN stack projects and innovative tech ideas  <br>🤝 I’m looking for help with: Advanced backend development and system design  <br>🌱 I’m currently learning: Data Structures & Algorithms, Backend Development, and new web technologies  <br>💬 Ask me about: Web development, Java, and project building  <br>⚡ Fun fact: I believe in learning by building and constantly upgrading my skills 🚀
+👋 I'm Arnav Singh, a B.Tech CSE student at Lovely Professional University with a passion for building scalable and user-friendly web applications.<br>
+
+💻 I specialize in the MERN Stack (MongoDB, Express.js, React.js, and Node.js) and enjoy developing full-stack projects that solve real-world problems.<br>
+
+🚀 Currently exploring Docker, DevOps, AI integration, and advanced backend development while strengthening my Data Structures & Algorithms skills using Java.<br>
+
+🤝 Open to collaborating on open-source projects, innovative web applications, and exciting software development opportunities.<br>
+
+📫 Feel free to connect with me to discuss web development, full-stack engineering, or new technology ideas.
 
 
 ## 🌐 Socials:
